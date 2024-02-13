@@ -5,7 +5,7 @@
 
 
 
-# MY STATS (They're pathetic):
+# MY STATS:
 
 
 [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
